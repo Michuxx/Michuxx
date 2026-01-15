@@ -14,10 +14,11 @@
 
 <p align="center">
   Visit my Linkedin!
+  <a href="[www.linkedin.com/in/michał-szymczak-4492a7305](https://www.linkedin.com/in/micha%C5%82-szymczak-4492a7305/](https://www.linkedin.com/in/micha%C5%82-szymczak-4492a7305/)" align="center">
+    <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+  </a>
 </p>
-<a href="www.linkedin.com/in/michał-szymczak-4492a7305" align="center">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
-</a>
+
 
 
 ---
