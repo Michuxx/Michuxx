@@ -10,10 +10,12 @@
   By taking part in multiple internships and additional courses I have mastered the basics of full-stack development.
 </p>
 
+<hr>
+
 <p align="center">
   Visit my Linkedin!
-</p>p
-<a href="www.linkedin.com/in/michał-szymczak-4492a7305">
+</p>
+<a href="www.linkedin.com/in/michał-szymczak-4492a7305" align="center">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
 
